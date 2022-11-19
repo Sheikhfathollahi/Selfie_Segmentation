@@ -14,6 +14,7 @@ The input image is the webcam frame.
 
 ## output
 The output segmentation mask, which has the same dimension as the input image.
+
 ![img](Output.png)
 
 ## Resources
