@@ -1,5 +1,5 @@
 # Selfie Segemntation
-this app can run in real-time on both smartphones and laptops.
+this app can be run in real-time on both smartphones and laptops.
 ![img](Selfie.png)
 ## Install requirements
 
